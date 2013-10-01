@@ -1,17 +1,15 @@
 CodingDojo-Url
 ==============
 
-http://dojopuzzles.com/problemas/exibe/analisando-urls/
-
-
-Dada uma URL, desenvolva um programa que indique se a URL é válida ou não e, caso seja válida, retorne as suas partes constituintes.
+http://dojopuzzles.com/problemas/exibe/analisando-urls/  
+Dada uma URL, desenvolva um programa que indique se a URL é válida ou não e, caso seja válida, retorne as suas partes constituintes.  
 
 Exemplos:
 
-Entrada: 
+Entrada:  
   http://www.google.com/mail/user=fulano
   
-Saída:
+Saída:  
   protocolo: http
   host: www
   domínio: google.com
