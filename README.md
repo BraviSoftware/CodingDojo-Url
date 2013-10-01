@@ -10,17 +10,17 @@ Entrada:
   http://www.google.com/mail/user=fulano
   
 Saída:  
-  protocolo: http
-  host: www
-  domínio: google.com
-  path: mail
-  parâmetros: user=fulano
+  protocolo: http  
+  host: www  
+  domínio: google.com  
+  path: mail  
+  parâmetros: user=fulano  
   
-Entrada: 
-  ssh://fulano%senha@git.com/
+Entrada:   
+  ssh://fulano%senha@git.com/  
   
-Saída:
-  protocolo: ssh
-  usuário: fulano
-  senha: senha
-  dominio: git.com
+Saída:  
+  protocolo: ssh  
+  usuário: fulano  
+  senha: senha  
+  dominio: git.com  
